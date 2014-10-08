@@ -2,7 +2,6 @@ CodingSpot Inc.
 =========
 
 Taking too long to copy code from the forums? Find the code you need here!
-
 Course Overview -
      Introduction to Java; OOP
      Setting up the IDE
