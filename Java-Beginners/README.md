@@ -11,7 +11,7 @@ F Setting up the IDE
  
 F* Hello World
  
- Variables
+F* Variables
  
  Getting User Input
  
