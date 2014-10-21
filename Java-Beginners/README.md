@@ -1,6 +1,14 @@
 Java Beginners on CodingSpot
 =
 
+# IMPORTANT: PLEASE READ ME FIRST BEFORE PROCEEDING!!!
+
+For some unknown reason, CodingSpot is offline. We are trying to fix the problem, however CodingSpot is inaccessible. News will be posted as soon as we get progress.
+
+If you haven't already downloaded them, the offline reading copies are still here. Woo, GitHub. Lessons 1-2 are inaccessible since they are not hands on.
+
+--
+
 Welcome to the official Java Beginners repository on the CodingSpot Network.
 
 ## List of lessons
