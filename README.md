@@ -1,7 +1,7 @@
 forumcode
 =========
 
-This GitHub repository hosts code from the CodingSpot Forums for each lesson. Currently we have resources on 1 lesson:
+This GitHub repository hosts code from the CodingSpot Forums for each lesson. Currently we have resources on 2 lessons.
 
 ## Cloning the repository
 
